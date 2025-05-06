@@ -18,7 +18,7 @@ A simple, modular tool for generating one-page SEO-optimized HTML websites using
   - keywords.txt – List of keywords (one per line)
   - output/ – Generated websites saved here
   - templates/
-    - casino-template/ – Static HTML template
+    - main-template/ – Static HTML template
   - src/
     - index.ts – Main entry point
     - openai.ts – GPT API logic
