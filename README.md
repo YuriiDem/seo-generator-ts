@@ -7,7 +7,7 @@ A simple, modular tool for generating one-page SEO-optimized HTML websites using
 ## 📦 Features
 
 - ✅ Generates SEO content based on keyword lists
-- 🧠 Uses GPT (3.5 or 4 Turbo) to generate Title, Meta Description, H1, and long-form SEO text
+- 🧠 Uses GPT to generate Title, Meta Description, H1, and long-form SEO text
 - 🔧 Injects content into HTML templates automatically
 - 📂 Outputs complete HTML websites with assets
 - 📝 Supports templates with markers for easy content injection
