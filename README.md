@@ -43,7 +43,7 @@ A simple, modular tool for generating one-page SEO-optimized HTML websites using
 Create a .env file:
 ```OPENAI_API_KEY=your-api-key-here```
 
-##🧠 Usage
+## 🧠 Usage
 1. Add your keywords to keywords.txt, one per line.
 
 2. Run the generator:
@@ -51,7 +51,7 @@ Create a .env file:
 
 The generated website will be saved in the output/ folder with a unique timestamp.
 
-##📝 Template Format
+## 📝 Template Format
 
 Your index.html should include the following placeholders:
 ```
@@ -65,7 +65,7 @@ Your index.html should include the following placeholders:
 ```
 These markers are used by the script to inject AI-generated content into your HTML.
 
-##📌 TODO / Roadmap
+## 📌 TODO / Roadmap
 - CLI options (--template=, --keywords=, --output=)
 - Multi-keyword batch generation
 - Sitemap.xml and robots.txt auto-generation
